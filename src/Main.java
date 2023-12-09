@@ -5,6 +5,5 @@ public class Main {
         int b = 20;
         int c = 30;
         System.out.println(a + b + c);
-        int x = 44;
     }
 }
